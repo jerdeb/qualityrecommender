@@ -1,0 +1,1420 @@
+2019-06-11 21:27:06,667 - DEBUG - Loading datastore
+2019-06-11 21:27:06,667 - DEBUG - Creating datastore
+2019-06-11 21:27:06,677 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 21:27:06,677 - DEBUG - No trained model for Library Metadata Interlinking
+2019-06-11 21:27:06,710 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 21:27:06,721 - DEBUG - Local Knowledge Graph updated
+2019-06-11 21:27:09,621 - DEBUG - Updating local Knowledge Graph
+2019-06-11 21:27:09,621 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 21:27:09,629 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 21:27:09,639 - DEBUG - Local Knowledge Graph updated
+2019-06-11 21:27:09,726 - DEBUG - Updating local Knowledge Graph
+2019-06-11 21:27:09,726 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 21:27:09,735 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 21:27:09,745 - DEBUG - Local Knowledge Graph updated
+2019-06-11 21:27:09,833 - DEBUG - Updating local Knowledge Graph
+2019-06-11 21:27:09,833 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 21:27:09,841 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 21:27:09,857 - DEBUG - Local Knowledge Graph updated
+2019-06-11 21:27:09,952 - DEBUG - Updating local Knowledge Graph
+2019-06-11 21:27:09,952 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 21:27:09,969 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 21:27:09,984 - DEBUG - Local Knowledge Graph updated
+2019-06-11 21:27:10,062 - DEBUG - Updating local Knowledge Graph
+2019-06-11 21:27:10,062 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 21:27:10,069 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 21:27:10,079 - DEBUG - Local Knowledge Graph updated
+2019-06-11 21:27:10,177 - DEBUG - Updating local Knowledge Graph
+2019-06-11 21:27:10,177 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 21:27:10,186 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 21:27:10,209 - DEBUG - Local Knowledge Graph updated
+2019-06-11 21:27:10,288 - DEBUG - Updating local Knowledge Graph
+2019-06-11 21:27:10,289 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 21:27:10,303 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 21:27:10,319 - DEBUG - Local Knowledge Graph updated
+2019-06-11 21:27:10,486 - DEBUG - Updating local Knowledge Graph
+2019-06-11 21:27:10,486 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 21:27:10,500 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 21:27:10,519 - DEBUG - Local Knowledge Graph updated
+2019-06-11 21:27:10,627 - DEBUG - Updating local Knowledge Graph
+2019-06-11 21:27:10,627 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 21:27:10,635 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 21:27:10,650 - DEBUG - Local Knowledge Graph updated
+2019-06-11 21:27:10,764 - DEBUG - Updating local Knowledge Graph
+2019-06-11 21:27:10,764 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 21:27:10,772 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 21:27:10,782 - DEBUG - Local Knowledge Graph updated
+2019-06-11 21:27:10,867 - DEBUG - Updating local Knowledge Graph
+2019-06-11 21:27:10,867 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 21:27:10,875 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 21:27:10,885 - DEBUG - Local Knowledge Graph updated
+2019-06-11 21:27:11,000 - DEBUG - Updating local Knowledge Graph
+2019-06-11 21:27:11,000 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 21:27:11,019 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 21:27:11,038 - DEBUG - Local Knowledge Graph updated
+2019-06-11 21:27:11,211 - DEBUG - Updating local Knowledge Graph
+2019-06-11 21:27:11,211 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 21:27:11,225 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 21:27:11,246 - DEBUG - Local Knowledge Graph updated
+2019-06-11 21:28:18,618 - DEBUG - Loading datastore
+2019-06-11 21:28:18,618 - DEBUG - Creating datastore
+2019-06-11 21:28:18,627 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 21:28:18,628 - DEBUG - No trained model for Library Metadata Interlinking
+2019-06-11 21:28:18,705 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 21:28:18,719 - DEBUG - Local Knowledge Graph updated
+2019-06-11 21:28:22,135 - DEBUG - Updating local Knowledge Graph
+2019-06-11 21:28:22,136 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 21:28:22,145 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 21:28:22,155 - DEBUG - Local Knowledge Graph updated
+2019-06-11 21:28:22,240 - DEBUG - Updating local Knowledge Graph
+2019-06-11 21:28:22,240 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 21:28:22,248 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 21:28:22,258 - DEBUG - Local Knowledge Graph updated
+2019-06-11 21:28:22,344 - DEBUG - Updating local Knowledge Graph
+2019-06-11 21:28:22,344 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 21:28:22,353 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 21:28:22,364 - DEBUG - Local Knowledge Graph updated
+2019-06-11 21:28:22,456 - DEBUG - Updating local Knowledge Graph
+2019-06-11 21:28:22,456 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 21:28:22,473 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 21:28:22,497 - DEBUG - Local Knowledge Graph updated
+2019-06-11 21:28:22,669 - DEBUG - Updating local Knowledge Graph
+2019-06-11 21:28:22,669 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 21:28:22,677 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 21:28:22,688 - DEBUG - Local Knowledge Graph updated
+2019-06-11 21:28:22,775 - DEBUG - Updating local Knowledge Graph
+2019-06-11 21:28:22,775 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 21:28:22,784 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 21:28:22,798 - DEBUG - Local Knowledge Graph updated
+2019-06-11 21:28:22,901 - DEBUG - Updating local Knowledge Graph
+2019-06-11 21:28:22,901 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 21:28:22,917 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 21:28:22,935 - DEBUG - Local Knowledge Graph updated
+2019-06-11 21:28:23,141 - DEBUG - Updating local Knowledge Graph
+2019-06-11 21:28:23,141 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 21:28:23,158 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 21:28:23,175 - DEBUG - Local Knowledge Graph updated
+2019-06-11 21:28:23,383 - DEBUG - Updating local Knowledge Graph
+2019-06-11 21:28:23,383 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 21:28:23,395 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 21:28:23,411 - DEBUG - Local Knowledge Graph updated
+2019-06-11 21:28:23,550 - DEBUG - Updating local Knowledge Graph
+2019-06-11 21:28:23,550 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 21:28:23,561 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 21:28:23,572 - DEBUG - Local Knowledge Graph updated
+2019-06-11 21:28:23,661 - DEBUG - Updating local Knowledge Graph
+2019-06-11 21:28:23,661 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 21:28:23,669 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 21:28:23,680 - DEBUG - Local Knowledge Graph updated
+2019-06-11 21:28:23,768 - DEBUG - Updating local Knowledge Graph
+2019-06-11 21:28:23,768 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 21:28:23,778 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 21:28:23,792 - DEBUG - Local Knowledge Graph updated
+2019-06-11 21:28:23,873 - DEBUG - Updating local Knowledge Graph
+2019-06-11 21:28:23,873 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 21:28:23,882 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 21:28:23,902 - DEBUG - Local Knowledge Graph updated
+2019-06-11 21:28:48,689 - DEBUG - Updating local Knowledge Graph
+2019-06-11 21:28:48,689 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 21:28:48,710 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 21:28:48,733 - DEBUG - Local Knowledge Graph updated
+2019-06-11 21:28:48,900 - DEBUG - Updating local Knowledge Graph
+2019-06-11 21:28:48,901 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 21:28:48,911 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 21:28:48,921 - DEBUG - Local Knowledge Graph updated
+2019-06-11 21:28:49,044 - DEBUG - Updating local Knowledge Graph
+2019-06-11 21:28:49,044 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 21:28:49,056 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 21:28:49,127 - DEBUG - Local Knowledge Graph updated
+2019-06-11 21:28:49,284 - DEBUG - Updating local Knowledge Graph
+2019-06-11 21:28:49,285 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 21:28:49,294 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 21:28:49,306 - DEBUG - Local Knowledge Graph updated
+2019-06-11 21:28:49,537 - DEBUG - Updating local Knowledge Graph
+2019-06-11 21:28:49,538 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 21:28:49,560 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 21:28:49,581 - DEBUG - Local Knowledge Graph updated
+2019-06-11 21:28:49,772 - DEBUG - Updating local Knowledge Graph
+2019-06-11 21:28:49,773 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 21:28:49,785 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 21:28:49,831 - DEBUG - Local Knowledge Graph updated
+2019-06-11 21:28:50,040 - DEBUG - Updating local Knowledge Graph
+2019-06-11 21:28:50,040 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 21:28:50,069 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 21:28:50,088 - DEBUG - Local Knowledge Graph updated
+2019-06-11 21:28:50,266 - DEBUG - Updating local Knowledge Graph
+2019-06-11 21:28:50,266 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 21:28:50,288 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 21:28:50,322 - DEBUG - Local Knowledge Graph updated
+2019-06-11 21:28:50,532 - DEBUG - Updating local Knowledge Graph
+2019-06-11 21:28:50,532 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 21:28:50,551 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 21:28:50,573 - DEBUG - Local Knowledge Graph updated
+2019-06-11 21:28:50,669 - DEBUG - Updating local Knowledge Graph
+2019-06-11 21:28:50,669 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 21:28:50,692 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 21:28:50,719 - DEBUG - Local Knowledge Graph updated
+2019-06-11 21:28:50,939 - DEBUG - Updating local Knowledge Graph
+2019-06-11 21:28:50,939 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 21:28:50,956 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 21:28:50,971 - DEBUG - Local Knowledge Graph updated
+2019-06-11 21:28:51,150 - DEBUG - Updating local Knowledge Graph
+2019-06-11 21:28:51,151 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 21:28:51,162 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 21:28:51,181 - DEBUG - Local Knowledge Graph updated
+2019-06-11 21:28:51,395 - DEBUG - Updating local Knowledge Graph
+2019-06-11 21:28:51,395 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 21:28:51,407 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 21:28:51,445 - DEBUG - Local Knowledge Graph updated
+2019-06-11 21:31:04,576 - DEBUG - Updating local Knowledge Graph
+2019-06-11 21:31:04,576 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 21:31:04,586 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 21:31:04,596 - DEBUG - Local Knowledge Graph updated
+2019-06-11 21:31:04,690 - DEBUG - Updating local Knowledge Graph
+2019-06-11 21:31:04,690 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 21:31:04,702 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 21:31:04,717 - DEBUG - Local Knowledge Graph updated
+2019-06-11 21:31:04,814 - DEBUG - Updating local Knowledge Graph
+2019-06-11 21:31:04,814 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 21:31:04,823 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 21:31:04,833 - DEBUG - Local Knowledge Graph updated
+2019-06-11 21:31:04,914 - DEBUG - Updating local Knowledge Graph
+2019-06-11 21:31:04,914 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 21:31:04,924 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 21:31:04,934 - DEBUG - Local Knowledge Graph updated
+2019-06-11 21:31:05,019 - DEBUG - Updating local Knowledge Graph
+2019-06-11 21:31:05,019 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 21:31:05,027 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 21:31:05,038 - DEBUG - Local Knowledge Graph updated
+2019-06-11 21:31:05,118 - DEBUG - Updating local Knowledge Graph
+2019-06-11 21:31:05,118 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 21:31:05,126 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 21:31:05,136 - DEBUG - Local Knowledge Graph updated
+2019-06-11 21:31:05,231 - DEBUG - Updating local Knowledge Graph
+2019-06-11 21:31:05,231 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 21:31:05,244 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 21:31:05,267 - DEBUG - Local Knowledge Graph updated
+2019-06-11 21:31:05,433 - DEBUG - Updating local Knowledge Graph
+2019-06-11 21:31:05,433 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 21:31:05,443 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 21:31:05,463 - DEBUG - Local Knowledge Graph updated
+2019-06-11 21:31:05,593 - DEBUG - Updating local Knowledge Graph
+2019-06-11 21:31:05,593 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 21:31:05,606 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 21:31:05,630 - DEBUG - Local Knowledge Graph updated
+2019-06-11 21:31:05,807 - DEBUG - Updating local Knowledge Graph
+2019-06-11 21:31:05,808 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 21:31:05,824 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 21:31:05,840 - DEBUG - Local Knowledge Graph updated
+2019-06-11 21:31:06,025 - DEBUG - Updating local Knowledge Graph
+2019-06-11 21:31:06,025 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 21:31:06,042 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 21:31:06,061 - DEBUG - Local Knowledge Graph updated
+2019-06-11 21:31:06,163 - DEBUG - Updating local Knowledge Graph
+2019-06-11 21:31:06,163 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 21:31:06,176 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 21:31:06,186 - DEBUG - Local Knowledge Graph updated
+2019-06-11 21:31:06,319 - DEBUG - Updating local Knowledge Graph
+2019-06-11 21:31:06,319 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 21:31:06,339 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 21:31:06,386 - DEBUG - Local Knowledge Graph updated
+2019-06-11 21:34:21,241 - DEBUG - Updating local Knowledge Graph
+2019-06-11 21:34:21,242 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 21:34:21,256 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 21:34:21,273 - DEBUG - Local Knowledge Graph updated
+2019-06-11 21:34:21,425 - DEBUG - Updating local Knowledge Graph
+2019-06-11 21:34:21,425 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 21:34:21,443 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 21:34:21,464 - DEBUG - Local Knowledge Graph updated
+2019-06-11 21:34:21,633 - DEBUG - Updating local Knowledge Graph
+2019-06-11 21:34:21,633 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 21:34:21,641 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 21:34:21,655 - DEBUG - Local Knowledge Graph updated
+2019-06-11 21:34:21,791 - DEBUG - Updating local Knowledge Graph
+2019-06-11 21:34:21,791 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 21:34:21,809 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 21:34:21,827 - DEBUG - Local Knowledge Graph updated
+2019-06-11 21:34:22,061 - DEBUG - Updating local Knowledge Graph
+2019-06-11 21:34:22,061 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 21:34:22,097 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 21:34:22,149 - DEBUG - Local Knowledge Graph updated
+2019-06-11 21:34:22,305 - DEBUG - Updating local Knowledge Graph
+2019-06-11 21:34:22,305 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 21:34:22,329 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 21:34:22,389 - DEBUG - Local Knowledge Graph updated
+2019-06-11 21:34:22,616 - DEBUG - Updating local Knowledge Graph
+2019-06-11 21:34:22,616 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 21:34:22,642 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 21:34:22,672 - DEBUG - Local Knowledge Graph updated
+2019-06-11 21:34:22,783 - DEBUG - Updating local Knowledge Graph
+2019-06-11 21:34:22,783 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 21:34:22,797 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 21:34:22,834 - DEBUG - Local Knowledge Graph updated
+2019-06-11 21:34:23,007 - DEBUG - Updating local Knowledge Graph
+2019-06-11 21:34:23,007 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 21:34:23,017 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 21:34:23,032 - DEBUG - Local Knowledge Graph updated
+2019-06-11 21:34:23,218 - DEBUG - Updating local Knowledge Graph
+2019-06-11 21:34:23,219 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 21:34:23,247 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 21:34:23,284 - DEBUG - Local Knowledge Graph updated
+2019-06-11 21:34:23,537 - DEBUG - Updating local Knowledge Graph
+2019-06-11 21:34:23,537 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 21:34:23,548 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 21:34:23,562 - DEBUG - Local Knowledge Graph updated
+2019-06-11 21:34:23,641 - DEBUG - Updating local Knowledge Graph
+2019-06-11 21:34:23,641 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 21:34:23,649 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 21:34:23,661 - DEBUG - Local Knowledge Graph updated
+2019-06-11 21:34:23,742 - DEBUG - Updating local Knowledge Graph
+2019-06-11 21:34:23,742 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 21:34:23,751 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 21:34:23,763 - DEBUG - Local Knowledge Graph updated
+2019-06-11 21:38:09,862 - DEBUG - Updating local Knowledge Graph
+2019-06-11 21:38:09,862 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 21:38:09,877 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 21:38:09,891 - DEBUG - Local Knowledge Graph updated
+2019-06-11 21:38:10,007 - DEBUG - Updating local Knowledge Graph
+2019-06-11 21:38:10,007 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 21:38:10,019 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 21:38:10,032 - DEBUG - Local Knowledge Graph updated
+2019-06-11 21:38:10,122 - DEBUG - Updating local Knowledge Graph
+2019-06-11 21:38:10,122 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 21:38:10,130 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 21:38:10,143 - DEBUG - Local Knowledge Graph updated
+2019-06-11 21:38:10,237 - DEBUG - Updating local Knowledge Graph
+2019-06-11 21:38:10,237 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 21:38:10,246 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 21:38:10,257 - DEBUG - Local Knowledge Graph updated
+2019-06-11 21:38:10,345 - DEBUG - Updating local Knowledge Graph
+2019-06-11 21:38:10,345 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 21:38:10,353 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 21:38:10,371 - DEBUG - Local Knowledge Graph updated
+2019-06-11 21:38:10,447 - DEBUG - Updating local Knowledge Graph
+2019-06-11 21:38:10,447 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 21:38:10,461 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 21:38:10,478 - DEBUG - Local Knowledge Graph updated
+2019-06-11 21:38:10,810 - DEBUG - Updating local Knowledge Graph
+2019-06-11 21:38:10,811 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 21:38:10,828 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 21:38:10,844 - DEBUG - Local Knowledge Graph updated
+2019-06-11 21:38:11,017 - DEBUG - Updating local Knowledge Graph
+2019-06-11 21:38:11,017 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 21:38:11,033 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 21:38:11,046 - DEBUG - Local Knowledge Graph updated
+2019-06-11 21:38:11,141 - DEBUG - Updating local Knowledge Graph
+2019-06-11 21:38:11,141 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 21:38:11,153 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 21:38:11,177 - DEBUG - Local Knowledge Graph updated
+2019-06-11 21:38:11,283 - DEBUG - Updating local Knowledge Graph
+2019-06-11 21:38:11,283 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 21:38:11,294 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 21:38:11,304 - DEBUG - Local Knowledge Graph updated
+2019-06-11 21:38:11,398 - DEBUG - Updating local Knowledge Graph
+2019-06-11 21:38:11,398 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 21:38:11,408 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 21:38:11,423 - DEBUG - Local Knowledge Graph updated
+2019-06-11 21:38:11,496 - DEBUG - Updating local Knowledge Graph
+2019-06-11 21:38:11,496 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 21:38:11,504 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 21:38:11,521 - DEBUG - Local Knowledge Graph updated
+2019-06-11 21:38:11,600 - DEBUG - Updating local Knowledge Graph
+2019-06-11 21:38:11,600 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 21:38:11,612 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 21:38:11,629 - DEBUG - Local Knowledge Graph updated
+2019-06-11 21:45:38,363 - DEBUG - Loading datastore
+2019-06-11 21:45:38,363 - DEBUG - Creating datastore
+2019-06-11 21:45:38,378 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 21:45:38,379 - DEBUG - No trained model for Library Metadata Interlinking
+2019-06-11 21:45:38,420 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 21:45:38,447 - DEBUG - Local Knowledge Graph updated
+2019-06-11 21:45:50,834 - DEBUG - Updating local Knowledge Graph
+2019-06-11 21:45:50,834 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 21:45:50,860 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 21:45:50,872 - DEBUG - Local Knowledge Graph updated
+2019-06-11 21:45:51,022 - DEBUG - Updating local Knowledge Graph
+2019-06-11 21:45:51,022 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 21:45:51,030 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 21:45:51,040 - DEBUG - Local Knowledge Graph updated
+2019-06-11 21:45:51,176 - DEBUG - Updating local Knowledge Graph
+2019-06-11 21:45:51,176 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 21:45:51,188 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 21:45:51,200 - DEBUG - Local Knowledge Graph updated
+2019-06-11 21:45:51,286 - DEBUG - Updating local Knowledge Graph
+2019-06-11 21:45:51,286 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 21:45:51,295 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 21:45:51,306 - DEBUG - Local Knowledge Graph updated
+2019-06-11 21:45:51,399 - DEBUG - Updating local Knowledge Graph
+2019-06-11 21:45:51,399 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 21:45:51,408 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 21:45:51,418 - DEBUG - Local Knowledge Graph updated
+2019-06-11 21:45:51,557 - DEBUG - Updating local Knowledge Graph
+2019-06-11 21:45:51,557 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 21:45:51,569 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 21:45:51,588 - DEBUG - Local Knowledge Graph updated
+2019-06-11 21:45:51,696 - DEBUG - Updating local Knowledge Graph
+2019-06-11 21:45:51,696 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 21:45:51,708 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 21:45:51,729 - DEBUG - Local Knowledge Graph updated
+2019-06-11 21:45:51,865 - DEBUG - Updating local Knowledge Graph
+2019-06-11 21:45:51,865 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 21:45:51,881 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 21:45:51,900 - DEBUG - Local Knowledge Graph updated
+2019-06-11 21:45:52,104 - DEBUG - Updating local Knowledge Graph
+2019-06-11 21:45:52,104 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 21:45:52,115 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 21:45:52,143 - DEBUG - Local Knowledge Graph updated
+2019-06-11 21:45:52,295 - DEBUG - Updating local Knowledge Graph
+2019-06-11 21:45:52,295 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 21:45:52,315 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 21:45:52,343 - DEBUG - Local Knowledge Graph updated
+2019-06-11 21:45:52,544 - DEBUG - Updating local Knowledge Graph
+2019-06-11 21:45:52,544 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 21:45:52,565 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 21:45:52,600 - DEBUG - Local Knowledge Graph updated
+2019-06-11 21:45:52,759 - DEBUG - Updating local Knowledge Graph
+2019-06-11 21:45:52,759 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 21:45:52,777 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 21:45:52,801 - DEBUG - Local Knowledge Graph updated
+2019-06-11 21:45:52,976 - DEBUG - Updating local Knowledge Graph
+2019-06-11 21:45:52,976 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 21:45:52,988 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 21:45:53,008 - DEBUG - Local Knowledge Graph updated
+2019-06-11 21:46:46,149 - DEBUG - Updating local Knowledge Graph
+2019-06-11 21:46:46,149 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 21:46:46,162 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 21:46:46,173 - DEBUG - Local Knowledge Graph updated
+2019-06-11 21:46:46,265 - DEBUG - Updating local Knowledge Graph
+2019-06-11 21:46:46,265 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 21:46:46,280 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 21:46:46,295 - DEBUG - Local Knowledge Graph updated
+2019-06-11 21:46:46,390 - DEBUG - Updating local Knowledge Graph
+2019-06-11 21:46:46,390 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 21:46:46,403 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 21:46:46,415 - DEBUG - Local Knowledge Graph updated
+2019-06-11 21:46:46,502 - DEBUG - Updating local Knowledge Graph
+2019-06-11 21:46:46,502 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 21:46:46,510 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 21:46:46,522 - DEBUG - Local Knowledge Graph updated
+2019-06-11 21:46:46,601 - DEBUG - Updating local Knowledge Graph
+2019-06-11 21:46:46,601 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 21:46:46,609 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 21:46:46,621 - DEBUG - Local Knowledge Graph updated
+2019-06-11 21:46:46,701 - DEBUG - Updating local Knowledge Graph
+2019-06-11 21:46:46,701 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 21:46:46,709 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 21:46:46,720 - DEBUG - Local Knowledge Graph updated
+2019-06-11 21:46:46,811 - DEBUG - Updating local Knowledge Graph
+2019-06-11 21:46:46,811 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 21:46:46,821 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 21:46:46,832 - DEBUG - Local Knowledge Graph updated
+2019-06-11 21:46:46,911 - DEBUG - Updating local Knowledge Graph
+2019-06-11 21:46:46,911 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 21:46:46,921 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 21:46:46,932 - DEBUG - Local Knowledge Graph updated
+2019-06-11 21:46:47,030 - DEBUG - Updating local Knowledge Graph
+2019-06-11 21:46:47,030 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 21:46:47,039 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 21:46:47,057 - DEBUG - Local Knowledge Graph updated
+2019-06-11 21:46:47,238 - DEBUG - Updating local Knowledge Graph
+2019-06-11 21:46:47,238 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 21:46:47,267 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 21:46:47,289 - DEBUG - Local Knowledge Graph updated
+2019-06-11 21:46:47,446 - DEBUG - Updating local Knowledge Graph
+2019-06-11 21:46:47,446 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 21:46:47,459 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 21:46:47,479 - DEBUG - Local Knowledge Graph updated
+2019-06-11 21:46:47,645 - DEBUG - Updating local Knowledge Graph
+2019-06-11 21:46:47,645 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 21:46:47,665 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 21:46:47,688 - DEBUG - Local Knowledge Graph updated
+2019-06-11 21:46:47,782 - DEBUG - Updating local Knowledge Graph
+2019-06-11 21:46:47,782 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 21:46:47,798 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 21:46:47,827 - DEBUG - Local Knowledge Graph updated
+2019-06-11 21:47:30,669 - DEBUG - Updating local Knowledge Graph
+2019-06-11 21:47:30,669 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 21:47:30,681 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 21:47:30,702 - DEBUG - Local Knowledge Graph updated
+2019-06-11 21:47:30,806 - DEBUG - Updating local Knowledge Graph
+2019-06-11 21:47:30,806 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 21:47:30,818 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 21:47:30,830 - DEBUG - Local Knowledge Graph updated
+2019-06-11 21:47:31,033 - DEBUG - Updating local Knowledge Graph
+2019-06-11 21:47:31,033 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 21:47:31,042 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 21:47:31,051 - DEBUG - Local Knowledge Graph updated
+2019-06-11 21:47:31,133 - DEBUG - Updating local Knowledge Graph
+2019-06-11 21:47:31,133 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 21:47:31,142 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 21:47:31,152 - DEBUG - Local Knowledge Graph updated
+2019-06-11 21:47:31,228 - DEBUG - Updating local Knowledge Graph
+2019-06-11 21:47:31,228 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 21:47:31,241 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 21:47:31,251 - DEBUG - Local Knowledge Graph updated
+2019-06-11 21:47:31,339 - DEBUG - Updating local Knowledge Graph
+2019-06-11 21:47:31,339 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 21:47:31,350 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 21:47:31,363 - DEBUG - Local Knowledge Graph updated
+2019-06-11 21:47:31,497 - DEBUG - Updating local Knowledge Graph
+2019-06-11 21:47:31,497 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 21:47:31,512 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 21:47:31,526 - DEBUG - Local Knowledge Graph updated
+2019-06-11 21:47:31,723 - DEBUG - Updating local Knowledge Graph
+2019-06-11 21:47:31,724 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 21:47:31,751 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 21:47:31,769 - DEBUG - Local Knowledge Graph updated
+2019-06-11 21:47:31,976 - DEBUG - Updating local Knowledge Graph
+2019-06-11 21:47:31,976 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 21:47:31,990 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 21:47:32,009 - DEBUG - Local Knowledge Graph updated
+2019-06-11 21:47:32,206 - DEBUG - Updating local Knowledge Graph
+2019-06-11 21:47:32,206 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 21:47:32,224 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 21:47:32,238 - DEBUG - Local Knowledge Graph updated
+2019-06-11 21:47:32,393 - DEBUG - Updating local Knowledge Graph
+2019-06-11 21:47:32,393 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 21:47:32,402 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 21:47:32,412 - DEBUG - Local Knowledge Graph updated
+2019-06-11 21:47:32,500 - DEBUG - Updating local Knowledge Graph
+2019-06-11 21:47:32,500 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 21:47:32,510 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 21:47:32,526 - DEBUG - Local Knowledge Graph updated
+2019-06-11 21:47:32,651 - DEBUG - Updating local Knowledge Graph
+2019-06-11 21:47:32,651 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 21:47:32,661 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 21:47:32,675 - DEBUG - Local Knowledge Graph updated
+2019-06-11 21:48:34,523 - DEBUG - Updating local Knowledge Graph
+2019-06-11 21:48:34,524 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 21:48:34,532 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 21:48:34,546 - DEBUG - Local Knowledge Graph updated
+2019-06-11 21:48:34,659 - DEBUG - Updating local Knowledge Graph
+2019-06-11 21:48:34,659 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 21:48:34,670 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 21:48:34,688 - DEBUG - Local Knowledge Graph updated
+2019-06-11 21:48:34,772 - DEBUG - Updating local Knowledge Graph
+2019-06-11 21:48:34,772 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 21:48:34,782 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 21:48:34,795 - DEBUG - Local Knowledge Graph updated
+2019-06-11 21:48:34,876 - DEBUG - Updating local Knowledge Graph
+2019-06-11 21:48:34,876 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 21:48:34,886 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 21:48:34,897 - DEBUG - Local Knowledge Graph updated
+2019-06-11 21:48:34,981 - DEBUG - Updating local Knowledge Graph
+2019-06-11 21:48:34,981 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 21:48:34,989 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 21:48:35,001 - DEBUG - Local Knowledge Graph updated
+2019-06-11 21:48:35,094 - DEBUG - Updating local Knowledge Graph
+2019-06-11 21:48:35,094 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 21:48:35,105 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 21:48:35,116 - DEBUG - Local Knowledge Graph updated
+2019-06-11 21:48:35,193 - DEBUG - Updating local Knowledge Graph
+2019-06-11 21:48:35,193 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 21:48:35,201 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 21:48:35,212 - DEBUG - Local Knowledge Graph updated
+2019-06-11 21:48:35,294 - DEBUG - Updating local Knowledge Graph
+2019-06-11 21:48:35,294 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 21:48:35,302 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 21:48:35,314 - DEBUG - Local Knowledge Graph updated
+2019-06-11 21:48:35,402 - DEBUG - Updating local Knowledge Graph
+2019-06-11 21:48:35,402 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 21:48:35,413 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 21:48:35,431 - DEBUG - Local Knowledge Graph updated
+2019-06-11 21:48:35,546 - DEBUG - Updating local Knowledge Graph
+2019-06-11 21:48:35,546 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 21:48:35,563 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 21:48:35,583 - DEBUG - Local Knowledge Graph updated
+2019-06-11 21:48:35,761 - DEBUG - Updating local Knowledge Graph
+2019-06-11 21:48:35,761 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 21:48:35,776 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 21:48:35,795 - DEBUG - Local Knowledge Graph updated
+2019-06-11 21:48:35,898 - DEBUG - Updating local Knowledge Graph
+2019-06-11 21:48:35,898 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 21:48:35,907 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 21:48:35,921 - DEBUG - Local Knowledge Graph updated
+2019-06-11 21:48:36,004 - DEBUG - Updating local Knowledge Graph
+2019-06-11 21:48:36,004 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 21:48:36,013 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 21:48:36,030 - DEBUG - Local Knowledge Graph updated
+2019-06-11 21:48:51,876 - DEBUG - Updating local Knowledge Graph
+2019-06-11 21:48:51,876 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 21:48:51,885 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 21:48:51,899 - DEBUG - Local Knowledge Graph updated
+2019-06-11 21:48:52,001 - DEBUG - Updating local Knowledge Graph
+2019-06-11 21:48:52,001 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 21:48:52,012 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 21:48:52,025 - DEBUG - Local Knowledge Graph updated
+2019-06-11 21:48:52,122 - DEBUG - Updating local Knowledge Graph
+2019-06-11 21:48:52,122 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 21:48:52,135 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 21:48:52,145 - DEBUG - Local Knowledge Graph updated
+2019-06-11 21:48:52,226 - DEBUG - Updating local Knowledge Graph
+2019-06-11 21:48:52,226 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 21:48:52,234 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 21:48:52,248 - DEBUG - Local Knowledge Graph updated
+2019-06-11 21:48:52,329 - DEBUG - Updating local Knowledge Graph
+2019-06-11 21:48:52,329 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 21:48:52,337 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 21:48:52,347 - DEBUG - Local Knowledge Graph updated
+2019-06-11 21:48:52,428 - DEBUG - Updating local Knowledge Graph
+2019-06-11 21:48:52,428 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 21:48:52,437 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 21:48:52,446 - DEBUG - Local Knowledge Graph updated
+2019-06-11 21:48:52,523 - DEBUG - Updating local Knowledge Graph
+2019-06-11 21:48:52,523 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 21:48:52,531 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 21:48:52,541 - DEBUG - Local Knowledge Graph updated
+2019-06-11 21:48:52,636 - DEBUG - Updating local Knowledge Graph
+2019-06-11 21:48:52,636 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 21:48:52,645 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 21:48:52,660 - DEBUG - Local Knowledge Graph updated
+2019-06-11 21:48:52,813 - DEBUG - Updating local Knowledge Graph
+2019-06-11 21:48:52,813 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 21:48:52,829 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 21:48:52,843 - DEBUG - Local Knowledge Graph updated
+2019-06-11 21:48:52,927 - DEBUG - Updating local Knowledge Graph
+2019-06-11 21:48:52,927 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 21:48:52,937 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 21:48:52,947 - DEBUG - Local Knowledge Graph updated
+2019-06-11 21:48:53,032 - DEBUG - Updating local Knowledge Graph
+2019-06-11 21:48:53,032 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 21:48:53,045 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 21:48:53,056 - DEBUG - Local Knowledge Graph updated
+2019-06-11 21:48:53,149 - DEBUG - Updating local Knowledge Graph
+2019-06-11 21:48:53,149 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 21:48:53,159 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 21:48:53,169 - DEBUG - Local Knowledge Graph updated
+2019-06-11 21:48:53,318 - DEBUG - Updating local Knowledge Graph
+2019-06-11 21:48:53,318 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 21:48:53,335 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 21:48:53,349 - DEBUG - Local Knowledge Graph updated
+2019-06-11 21:49:16,682 - DEBUG - Updating local Knowledge Graph
+2019-06-11 21:49:16,683 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 21:49:16,692 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 21:49:16,702 - DEBUG - Local Knowledge Graph updated
+2019-06-11 21:49:16,801 - DEBUG - Updating local Knowledge Graph
+2019-06-11 21:49:16,801 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 21:49:16,810 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 21:49:16,822 - DEBUG - Local Knowledge Graph updated
+2019-06-11 21:49:16,895 - DEBUG - Updating local Knowledge Graph
+2019-06-11 21:49:16,895 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 21:49:16,903 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 21:49:16,914 - DEBUG - Local Knowledge Graph updated
+2019-06-11 21:49:17,009 - DEBUG - Updating local Knowledge Graph
+2019-06-11 21:49:17,009 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 21:49:17,020 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 21:49:17,032 - DEBUG - Local Knowledge Graph updated
+2019-06-11 21:49:17,104 - DEBUG - Updating local Knowledge Graph
+2019-06-11 21:49:17,104 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 21:49:17,112 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 21:49:17,126 - DEBUG - Local Knowledge Graph updated
+2019-06-11 21:49:17,204 - DEBUG - Updating local Knowledge Graph
+2019-06-11 21:49:17,204 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 21:49:17,212 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 21:49:17,229 - DEBUG - Local Knowledge Graph updated
+2019-06-11 21:49:17,308 - DEBUG - Updating local Knowledge Graph
+2019-06-11 21:49:17,308 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 21:49:17,317 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 21:49:17,330 - DEBUG - Local Knowledge Graph updated
+2019-06-11 21:49:17,412 - DEBUG - Updating local Knowledge Graph
+2019-06-11 21:49:17,413 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 21:49:17,425 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 21:49:17,440 - DEBUG - Local Knowledge Graph updated
+2019-06-11 21:49:17,564 - DEBUG - Updating local Knowledge Graph
+2019-06-11 21:49:17,564 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 21:49:17,577 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 21:49:17,605 - DEBUG - Local Knowledge Graph updated
+2019-06-11 21:49:17,752 - DEBUG - Updating local Knowledge Graph
+2019-06-11 21:49:17,752 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 21:49:17,766 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 21:49:17,780 - DEBUG - Local Knowledge Graph updated
+2019-06-11 21:49:17,961 - DEBUG - Updating local Knowledge Graph
+2019-06-11 21:49:17,961 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 21:49:17,980 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 21:49:17,992 - DEBUG - Local Knowledge Graph updated
+2019-06-11 21:49:18,097 - DEBUG - Updating local Knowledge Graph
+2019-06-11 21:49:18,097 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 21:49:18,128 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 21:49:18,150 - DEBUG - Local Knowledge Graph updated
+2019-06-11 21:49:18,367 - DEBUG - Updating local Knowledge Graph
+2019-06-11 21:49:18,367 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 21:49:18,386 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 21:49:18,403 - DEBUG - Local Knowledge Graph updated
+2019-06-11 22:02:12,806 - DEBUG - Updating local Knowledge Graph
+2019-06-11 22:02:12,806 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 22:02:12,820 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 22:02:12,843 - DEBUG - Local Knowledge Graph updated
+2019-06-11 22:02:13,009 - DEBUG - Updating local Knowledge Graph
+2019-06-11 22:02:13,009 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 22:02:13,019 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 22:02:13,032 - DEBUG - Local Knowledge Graph updated
+2019-06-11 22:02:13,121 - DEBUG - Updating local Knowledge Graph
+2019-06-11 22:02:13,121 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 22:02:13,129 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 22:02:13,139 - DEBUG - Local Knowledge Graph updated
+2019-06-11 22:02:13,228 - DEBUG - Updating local Knowledge Graph
+2019-06-11 22:02:13,228 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 22:02:13,236 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 22:02:13,247 - DEBUG - Local Knowledge Graph updated
+2019-06-11 22:02:13,329 - DEBUG - Updating local Knowledge Graph
+2019-06-11 22:02:13,329 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 22:02:13,337 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 22:02:13,347 - DEBUG - Local Knowledge Graph updated
+2019-06-11 22:02:13,428 - DEBUG - Updating local Knowledge Graph
+2019-06-11 22:02:13,428 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 22:02:13,436 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 22:02:13,446 - DEBUG - Local Knowledge Graph updated
+2019-06-11 22:02:13,561 - DEBUG - Updating local Knowledge Graph
+2019-06-11 22:02:13,561 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 22:02:13,600 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 22:02:13,622 - DEBUG - Local Knowledge Graph updated
+2019-06-11 22:02:13,763 - DEBUG - Updating local Knowledge Graph
+2019-06-11 22:02:13,764 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 22:02:13,778 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 22:02:13,791 - DEBUG - Local Knowledge Graph updated
+2019-06-11 22:02:13,977 - DEBUG - Updating local Knowledge Graph
+2019-06-11 22:02:13,978 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 22:02:13,996 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 22:02:14,032 - DEBUG - Local Knowledge Graph updated
+2019-06-11 22:02:14,171 - DEBUG - Updating local Knowledge Graph
+2019-06-11 22:02:14,172 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 22:02:14,183 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 22:02:14,194 - DEBUG - Local Knowledge Graph updated
+2019-06-11 22:02:14,295 - DEBUG - Updating local Knowledge Graph
+2019-06-11 22:02:14,295 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 22:02:14,307 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 22:02:14,323 - DEBUG - Local Knowledge Graph updated
+2019-06-11 22:02:14,407 - DEBUG - Updating local Knowledge Graph
+2019-06-11 22:02:14,407 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 22:02:14,420 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 22:02:14,431 - DEBUG - Local Knowledge Graph updated
+2019-06-11 22:02:14,547 - DEBUG - Updating local Knowledge Graph
+2019-06-11 22:02:14,547 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 22:02:14,559 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 22:02:14,577 - DEBUG - Local Knowledge Graph updated
+2019-06-11 22:02:35,705 - DEBUG - Updating local Knowledge Graph
+2019-06-11 22:02:35,706 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 22:02:35,719 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 22:02:35,736 - DEBUG - Local Knowledge Graph updated
+2019-06-11 22:02:35,866 - DEBUG - Updating local Knowledge Graph
+2019-06-11 22:02:35,866 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 22:02:35,885 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 22:02:35,903 - DEBUG - Local Knowledge Graph updated
+2019-06-11 22:02:35,983 - DEBUG - Updating local Knowledge Graph
+2019-06-11 22:02:35,983 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 22:02:35,991 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 22:02:36,002 - DEBUG - Local Knowledge Graph updated
+2019-06-11 22:02:36,092 - DEBUG - Updating local Knowledge Graph
+2019-06-11 22:02:36,092 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 22:02:36,101 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 22:02:36,122 - DEBUG - Local Knowledge Graph updated
+2019-06-11 22:02:36,367 - DEBUG - Updating local Knowledge Graph
+2019-06-11 22:02:36,367 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 22:02:36,381 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 22:02:36,396 - DEBUG - Local Knowledge Graph updated
+2019-06-11 22:02:36,556 - DEBUG - Updating local Knowledge Graph
+2019-06-11 22:02:36,556 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 22:02:36,574 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 22:02:36,592 - DEBUG - Local Knowledge Graph updated
+2019-06-11 22:02:36,789 - DEBUG - Updating local Knowledge Graph
+2019-06-11 22:02:36,789 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 22:02:36,813 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 22:02:36,833 - DEBUG - Local Knowledge Graph updated
+2019-06-11 22:02:36,922 - DEBUG - Updating local Knowledge Graph
+2019-06-11 22:02:36,922 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 22:02:36,933 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 22:02:36,947 - DEBUG - Local Knowledge Graph updated
+2019-06-11 22:02:37,129 - DEBUG - Updating local Knowledge Graph
+2019-06-11 22:02:37,130 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 22:02:37,138 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 22:02:37,156 - DEBUG - Local Knowledge Graph updated
+2019-06-11 22:02:37,277 - DEBUG - Updating local Knowledge Graph
+2019-06-11 22:02:37,277 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 22:02:37,290 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 22:02:37,309 - DEBUG - Local Knowledge Graph updated
+2019-06-11 22:02:37,485 - DEBUG - Updating local Knowledge Graph
+2019-06-11 22:02:37,485 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 22:02:37,502 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 22:02:37,522 - DEBUG - Local Knowledge Graph updated
+2019-06-11 22:02:37,654 - DEBUG - Updating local Knowledge Graph
+2019-06-11 22:02:37,654 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 22:02:37,677 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 22:02:37,708 - DEBUG - Local Knowledge Graph updated
+2019-06-11 22:02:37,845 - DEBUG - Updating local Knowledge Graph
+2019-06-11 22:02:37,845 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 22:02:37,858 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 22:02:37,872 - DEBUG - Local Knowledge Graph updated
+2019-06-11 22:03:12,384 - DEBUG - Updating local Knowledge Graph
+2019-06-11 22:03:12,384 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 22:03:12,397 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 22:03:12,410 - DEBUG - Local Knowledge Graph updated
+2019-06-11 22:03:12,500 - DEBUG - Updating local Knowledge Graph
+2019-06-11 22:03:12,500 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 22:03:12,515 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 22:03:12,533 - DEBUG - Local Knowledge Graph updated
+2019-06-11 22:03:12,621 - DEBUG - Updating local Knowledge Graph
+2019-06-11 22:03:12,621 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 22:03:12,631 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 22:03:12,641 - DEBUG - Local Knowledge Graph updated
+2019-06-11 22:03:12,727 - DEBUG - Updating local Knowledge Graph
+2019-06-11 22:03:12,727 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 22:03:12,735 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 22:03:12,745 - DEBUG - Local Knowledge Graph updated
+2019-06-11 22:03:12,828 - DEBUG - Updating local Knowledge Graph
+2019-06-11 22:03:12,828 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 22:03:12,836 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 22:03:12,847 - DEBUG - Local Knowledge Graph updated
+2019-06-11 22:03:12,937 - DEBUG - Updating local Knowledge Graph
+2019-06-11 22:03:12,937 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 22:03:12,946 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 22:03:12,958 - DEBUG - Local Knowledge Graph updated
+2019-06-11 22:03:13,048 - DEBUG - Updating local Knowledge Graph
+2019-06-11 22:03:13,049 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 22:03:13,059 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 22:03:13,072 - DEBUG - Local Knowledge Graph updated
+2019-06-11 22:03:13,153 - DEBUG - Updating local Knowledge Graph
+2019-06-11 22:03:13,153 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 22:03:13,162 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 22:03:13,176 - DEBUG - Local Knowledge Graph updated
+2019-06-11 22:03:13,263 - DEBUG - Updating local Knowledge Graph
+2019-06-11 22:03:13,264 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 22:03:13,276 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 22:03:13,287 - DEBUG - Local Knowledge Graph updated
+2019-06-11 22:03:13,412 - DEBUG - Updating local Knowledge Graph
+2019-06-11 22:03:13,412 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 22:03:13,426 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 22:03:13,441 - DEBUG - Local Knowledge Graph updated
+2019-06-11 22:03:13,540 - DEBUG - Updating local Knowledge Graph
+2019-06-11 22:03:13,540 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 22:03:13,550 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 22:03:13,573 - DEBUG - Local Knowledge Graph updated
+2019-06-11 22:03:13,684 - DEBUG - Updating local Knowledge Graph
+2019-06-11 22:03:13,684 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 22:03:13,692 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 22:03:13,704 - DEBUG - Local Knowledge Graph updated
+2019-06-11 22:03:13,790 - DEBUG - Updating local Knowledge Graph
+2019-06-11 22:03:13,790 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 22:03:13,800 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 22:03:13,813 - DEBUG - Local Knowledge Graph updated
+2019-06-11 22:03:26,155 - DEBUG - Updating local Knowledge Graph
+2019-06-11 22:03:26,156 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 22:03:26,166 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 22:03:26,182 - DEBUG - Local Knowledge Graph updated
+2019-06-11 22:03:26,278 - DEBUG - Updating local Knowledge Graph
+2019-06-11 22:03:26,279 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 22:03:26,288 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 22:03:26,300 - DEBUG - Local Knowledge Graph updated
+2019-06-11 22:03:26,396 - DEBUG - Updating local Knowledge Graph
+2019-06-11 22:03:26,396 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 22:03:26,410 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 22:03:26,437 - DEBUG - Local Knowledge Graph updated
+2019-06-11 22:03:26,524 - DEBUG - Updating local Knowledge Graph
+2019-06-11 22:03:26,524 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 22:03:26,534 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 22:03:26,544 - DEBUG - Local Knowledge Graph updated
+2019-06-11 22:03:26,628 - DEBUG - Updating local Knowledge Graph
+2019-06-11 22:03:26,628 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 22:03:26,636 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 22:03:26,647 - DEBUG - Local Knowledge Graph updated
+2019-06-11 22:03:26,728 - DEBUG - Updating local Knowledge Graph
+2019-06-11 22:03:26,728 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 22:03:26,738 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 22:03:26,749 - DEBUG - Local Knowledge Graph updated
+2019-06-11 22:03:26,829 - DEBUG - Updating local Knowledge Graph
+2019-06-11 22:03:26,829 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 22:03:26,840 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 22:03:26,851 - DEBUG - Local Knowledge Graph updated
+2019-06-11 22:03:26,965 - DEBUG - Updating local Knowledge Graph
+2019-06-11 22:03:26,965 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 22:03:26,988 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 22:03:27,010 - DEBUG - Local Knowledge Graph updated
+2019-06-11 22:03:27,165 - DEBUG - Updating local Knowledge Graph
+2019-06-11 22:03:27,165 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 22:03:27,180 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 22:03:27,191 - DEBUG - Local Knowledge Graph updated
+2019-06-11 22:03:27,381 - DEBUG - Updating local Knowledge Graph
+2019-06-11 22:03:27,381 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 22:03:27,397 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 22:03:27,415 - DEBUG - Local Knowledge Graph updated
+2019-06-11 22:03:27,508 - DEBUG - Updating local Knowledge Graph
+2019-06-11 22:03:27,508 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 22:03:27,519 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 22:03:27,531 - DEBUG - Local Knowledge Graph updated
+2019-06-11 22:03:27,695 - DEBUG - Updating local Knowledge Graph
+2019-06-11 22:03:27,695 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 22:03:27,727 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 22:03:27,761 - DEBUG - Local Knowledge Graph updated
+2019-06-11 22:03:27,851 - DEBUG - Updating local Knowledge Graph
+2019-06-11 22:03:27,851 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 22:03:27,862 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 22:03:27,877 - DEBUG - Local Knowledge Graph updated
+2019-06-11 22:04:45,717 - DEBUG - Updating local Knowledge Graph
+2019-06-11 22:04:45,718 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 22:04:45,728 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 22:04:45,738 - DEBUG - Local Knowledge Graph updated
+2019-06-11 22:04:45,820 - DEBUG - Updating local Knowledge Graph
+2019-06-11 22:04:45,820 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 22:04:45,834 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 22:04:45,845 - DEBUG - Local Knowledge Graph updated
+2019-06-11 22:04:45,946 - DEBUG - Updating local Knowledge Graph
+2019-06-11 22:04:45,946 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 22:04:45,958 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 22:04:45,971 - DEBUG - Local Knowledge Graph updated
+2019-06-11 22:04:46,056 - DEBUG - Updating local Knowledge Graph
+2019-06-11 22:04:46,056 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 22:04:46,075 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 22:04:46,089 - DEBUG - Local Knowledge Graph updated
+2019-06-11 22:04:46,238 - DEBUG - Updating local Knowledge Graph
+2019-06-11 22:04:46,238 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 22:04:46,255 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 22:04:46,274 - DEBUG - Local Knowledge Graph updated
+2019-06-11 22:04:46,359 - DEBUG - Updating local Knowledge Graph
+2019-06-11 22:04:46,359 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 22:04:46,371 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 22:04:46,382 - DEBUG - Local Knowledge Graph updated
+2019-06-11 22:04:46,501 - DEBUG - Updating local Knowledge Graph
+2019-06-11 22:04:46,501 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 22:04:46,525 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 22:04:46,545 - DEBUG - Local Knowledge Graph updated
+2019-06-11 22:04:46,698 - DEBUG - Updating local Knowledge Graph
+2019-06-11 22:04:46,698 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 22:04:46,709 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 22:04:46,720 - DEBUG - Local Knowledge Graph updated
+2019-06-11 22:04:46,820 - DEBUG - Updating local Knowledge Graph
+2019-06-11 22:04:46,820 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 22:04:46,836 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 22:04:46,847 - DEBUG - Local Knowledge Graph updated
+2019-06-11 22:04:46,945 - DEBUG - Updating local Knowledge Graph
+2019-06-11 22:04:46,945 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 22:04:46,955 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 22:04:46,972 - DEBUG - Local Knowledge Graph updated
+2019-06-11 22:04:47,054 - DEBUG - Updating local Knowledge Graph
+2019-06-11 22:04:47,054 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 22:04:47,067 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 22:04:47,083 - DEBUG - Local Knowledge Graph updated
+2019-06-11 22:04:47,160 - DEBUG - Updating local Knowledge Graph
+2019-06-11 22:04:47,160 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 22:04:47,175 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 22:04:47,191 - DEBUG - Local Knowledge Graph updated
+2019-06-11 22:04:47,270 - DEBUG - Updating local Knowledge Graph
+2019-06-11 22:04:47,270 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 22:04:47,285 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 22:04:47,299 - DEBUG - Local Knowledge Graph updated
+2019-06-11 22:05:28,755 - DEBUG - Updating local Knowledge Graph
+2019-06-11 22:05:28,755 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 22:05:28,763 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 22:05:28,774 - DEBUG - Local Knowledge Graph updated
+2019-06-11 22:05:28,851 - DEBUG - Updating local Knowledge Graph
+2019-06-11 22:05:28,851 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 22:05:28,863 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 22:05:28,879 - DEBUG - Local Knowledge Graph updated
+2019-06-11 22:05:28,971 - DEBUG - Updating local Knowledge Graph
+2019-06-11 22:05:28,971 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 22:05:28,983 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 22:05:28,993 - DEBUG - Local Knowledge Graph updated
+2019-06-11 22:05:29,088 - DEBUG - Updating local Knowledge Graph
+2019-06-11 22:05:29,088 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 22:05:29,099 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 22:05:29,122 - DEBUG - Local Knowledge Graph updated
+2019-06-11 22:05:29,251 - DEBUG - Updating local Knowledge Graph
+2019-06-11 22:05:29,251 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 22:05:29,266 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 22:05:29,281 - DEBUG - Local Knowledge Graph updated
+2019-06-11 22:05:29,361 - DEBUG - Updating local Knowledge Graph
+2019-06-11 22:05:29,361 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 22:05:29,376 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 22:05:29,387 - DEBUG - Local Knowledge Graph updated
+2019-06-11 22:05:29,461 - DEBUG - Updating local Knowledge Graph
+2019-06-11 22:05:29,461 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 22:05:29,476 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 22:05:29,486 - DEBUG - Local Knowledge Graph updated
+2019-06-11 22:05:29,566 - DEBUG - Updating local Knowledge Graph
+2019-06-11 22:05:29,566 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 22:05:29,584 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 22:05:29,601 - DEBUG - Local Knowledge Graph updated
+2019-06-11 22:05:29,702 - DEBUG - Updating local Knowledge Graph
+2019-06-11 22:05:29,702 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 22:05:29,713 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 22:05:29,723 - DEBUG - Local Knowledge Graph updated
+2019-06-11 22:05:29,834 - DEBUG - Updating local Knowledge Graph
+2019-06-11 22:05:29,835 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 22:05:29,850 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 22:05:29,870 - DEBUG - Local Knowledge Graph updated
+2019-06-11 22:05:30,030 - DEBUG - Updating local Knowledge Graph
+2019-06-11 22:05:30,030 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 22:05:30,040 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 22:05:30,060 - DEBUG - Local Knowledge Graph updated
+2019-06-11 22:05:30,243 - DEBUG - Updating local Knowledge Graph
+2019-06-11 22:05:30,243 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 22:05:30,260 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 22:05:30,290 - DEBUG - Local Knowledge Graph updated
+2019-06-11 22:05:30,492 - DEBUG - Updating local Knowledge Graph
+2019-06-11 22:05:30,492 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 22:05:30,514 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 22:05:30,527 - DEBUG - Local Knowledge Graph updated
+2019-06-11 22:05:41,802 - DEBUG - Updating local Knowledge Graph
+2019-06-11 22:05:41,802 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 22:05:41,816 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 22:05:41,840 - DEBUG - Local Knowledge Graph updated
+2019-06-11 22:05:41,986 - DEBUG - Updating local Knowledge Graph
+2019-06-11 22:05:41,986 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 22:05:42,000 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 22:05:42,021 - DEBUG - Local Knowledge Graph updated
+2019-06-11 22:05:42,113 - DEBUG - Updating local Knowledge Graph
+2019-06-11 22:05:42,113 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 22:05:42,123 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 22:05:42,134 - DEBUG - Local Knowledge Graph updated
+2019-06-11 22:05:42,222 - DEBUG - Updating local Knowledge Graph
+2019-06-11 22:05:42,222 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 22:05:42,231 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 22:05:42,243 - DEBUG - Local Knowledge Graph updated
+2019-06-11 22:05:42,335 - DEBUG - Updating local Knowledge Graph
+2019-06-11 22:05:42,335 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 22:05:42,350 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 22:05:42,367 - DEBUG - Local Knowledge Graph updated
+2019-06-11 22:05:42,517 - DEBUG - Updating local Knowledge Graph
+2019-06-11 22:05:42,517 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 22:05:42,527 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 22:05:42,537 - DEBUG - Local Knowledge Graph updated
+2019-06-11 22:05:42,617 - DEBUG - Updating local Knowledge Graph
+2019-06-11 22:05:42,617 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 22:05:42,626 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 22:05:42,637 - DEBUG - Local Knowledge Graph updated
+2019-06-11 22:05:42,774 - DEBUG - Updating local Knowledge Graph
+2019-06-11 22:05:42,774 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 22:05:42,792 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 22:05:42,812 - DEBUG - Local Knowledge Graph updated
+2019-06-11 22:05:42,965 - DEBUG - Updating local Knowledge Graph
+2019-06-11 22:05:42,965 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 22:05:42,979 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 22:05:42,993 - DEBUG - Local Knowledge Graph updated
+2019-06-11 22:05:43,148 - DEBUG - Updating local Knowledge Graph
+2019-06-11 22:05:43,148 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 22:05:43,167 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 22:05:43,185 - DEBUG - Local Knowledge Graph updated
+2019-06-11 22:05:43,326 - DEBUG - Updating local Knowledge Graph
+2019-06-11 22:05:43,326 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 22:05:43,340 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 22:05:43,351 - DEBUG - Local Knowledge Graph updated
+2019-06-11 22:05:43,513 - DEBUG - Updating local Knowledge Graph
+2019-06-11 22:05:43,513 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 22:05:43,527 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 22:05:43,544 - DEBUG - Local Knowledge Graph updated
+2019-06-11 22:05:43,666 - DEBUG - Updating local Knowledge Graph
+2019-06-11 22:05:43,666 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 22:05:43,676 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 22:05:43,693 - DEBUG - Local Knowledge Graph updated
+2019-06-11 22:05:52,920 - DEBUG - Updating local Knowledge Graph
+2019-06-11 22:05:52,920 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 22:05:52,930 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 22:05:52,944 - DEBUG - Local Knowledge Graph updated
+2019-06-11 22:05:53,035 - DEBUG - Updating local Knowledge Graph
+2019-06-11 22:05:53,035 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 22:05:53,044 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 22:05:53,056 - DEBUG - Local Knowledge Graph updated
+2019-06-11 22:05:53,160 - DEBUG - Updating local Knowledge Graph
+2019-06-11 22:05:53,160 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 22:05:53,180 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 22:05:53,193 - DEBUG - Local Knowledge Graph updated
+2019-06-11 22:05:53,288 - DEBUG - Updating local Knowledge Graph
+2019-06-11 22:05:53,288 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 22:05:53,297 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 22:05:53,309 - DEBUG - Local Knowledge Graph updated
+2019-06-11 22:05:53,392 - DEBUG - Updating local Knowledge Graph
+2019-06-11 22:05:53,392 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 22:05:53,400 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 22:05:53,415 - DEBUG - Local Knowledge Graph updated
+2019-06-11 22:05:53,498 - DEBUG - Updating local Knowledge Graph
+2019-06-11 22:05:53,498 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 22:05:53,508 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 22:05:53,522 - DEBUG - Local Knowledge Graph updated
+2019-06-11 22:05:53,610 - DEBUG - Updating local Knowledge Graph
+2019-06-11 22:05:53,610 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 22:05:53,624 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 22:05:53,636 - DEBUG - Local Knowledge Graph updated
+2019-06-11 22:05:53,764 - DEBUG - Updating local Knowledge Graph
+2019-06-11 22:05:53,764 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 22:05:53,774 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 22:05:53,784 - DEBUG - Local Knowledge Graph updated
+2019-06-11 22:05:53,882 - DEBUG - Updating local Knowledge Graph
+2019-06-11 22:05:53,882 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 22:05:53,898 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 22:05:53,914 - DEBUG - Local Knowledge Graph updated
+2019-06-11 22:05:54,090 - DEBUG - Updating local Knowledge Graph
+2019-06-11 22:05:54,090 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 22:05:54,110 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 22:05:54,152 - DEBUG - Local Knowledge Graph updated
+2019-06-11 22:05:54,269 - DEBUG - Updating local Knowledge Graph
+2019-06-11 22:05:54,269 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 22:05:54,281 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 22:05:54,292 - DEBUG - Local Knowledge Graph updated
+2019-06-11 22:05:54,383 - DEBUG - Updating local Knowledge Graph
+2019-06-11 22:05:54,384 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 22:05:54,406 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 22:05:54,435 - DEBUG - Local Knowledge Graph updated
+2019-06-11 22:05:54,608 - DEBUG - Updating local Knowledge Graph
+2019-06-11 22:05:54,608 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 22:05:54,626 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 22:05:54,644 - DEBUG - Local Knowledge Graph updated
+2019-06-11 22:06:03,271 - DEBUG - Updating local Knowledge Graph
+2019-06-11 22:06:03,271 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 22:06:03,287 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 22:06:03,304 - DEBUG - Local Knowledge Graph updated
+2019-06-11 22:06:03,517 - DEBUG - Updating local Knowledge Graph
+2019-06-11 22:06:03,517 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 22:06:03,528 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 22:06:03,538 - DEBUG - Local Knowledge Graph updated
+2019-06-11 22:06:03,638 - DEBUG - Updating local Knowledge Graph
+2019-06-11 22:06:03,638 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 22:06:03,648 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 22:06:03,664 - DEBUG - Local Knowledge Graph updated
+2019-06-11 22:06:03,776 - DEBUG - Updating local Knowledge Graph
+2019-06-11 22:06:03,776 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 22:06:03,787 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 22:06:03,800 - DEBUG - Local Knowledge Graph updated
+2019-06-11 22:06:03,922 - DEBUG - Updating local Knowledge Graph
+2019-06-11 22:06:03,922 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 22:06:03,933 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 22:06:03,946 - DEBUG - Local Knowledge Graph updated
+2019-06-11 22:06:04,101 - DEBUG - Updating local Knowledge Graph
+2019-06-11 22:06:04,101 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 22:06:04,117 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 22:06:04,131 - DEBUG - Local Knowledge Graph updated
+2019-06-11 22:06:04,252 - DEBUG - Updating local Knowledge Graph
+2019-06-11 22:06:04,252 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 22:06:04,267 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 22:06:04,277 - DEBUG - Local Knowledge Graph updated
+2019-06-11 22:06:04,368 - DEBUG - Updating local Knowledge Graph
+2019-06-11 22:06:04,368 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 22:06:04,380 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 22:06:04,390 - DEBUG - Local Knowledge Graph updated
+2019-06-11 22:06:04,509 - DEBUG - Updating local Knowledge Graph
+2019-06-11 22:06:04,509 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 22:06:04,523 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 22:06:04,541 - DEBUG - Local Knowledge Graph updated
+2019-06-11 22:06:04,694 - DEBUG - Updating local Knowledge Graph
+2019-06-11 22:06:04,694 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 22:06:04,706 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 22:06:04,723 - DEBUG - Local Knowledge Graph updated
+2019-06-11 22:06:04,822 - DEBUG - Updating local Knowledge Graph
+2019-06-11 22:06:04,822 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 22:06:04,837 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 22:06:04,851 - DEBUG - Local Knowledge Graph updated
+2019-06-11 22:06:05,029 - DEBUG - Updating local Knowledge Graph
+2019-06-11 22:06:05,030 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 22:06:05,045 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 22:06:05,057 - DEBUG - Local Knowledge Graph updated
+2019-06-11 22:06:05,168 - DEBUG - Updating local Knowledge Graph
+2019-06-11 22:06:05,168 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 22:06:05,183 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 22:06:05,206 - DEBUG - Local Knowledge Graph updated
+2019-06-11 22:06:52,765 - DEBUG - Updating local Knowledge Graph
+2019-06-11 22:06:52,765 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 22:06:52,782 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 22:06:52,800 - DEBUG - Local Knowledge Graph updated
+2019-06-11 22:06:52,926 - DEBUG - Updating local Knowledge Graph
+2019-06-11 22:06:52,926 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 22:06:52,935 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 22:06:52,946 - DEBUG - Local Knowledge Graph updated
+2019-06-11 22:06:53,037 - DEBUG - Updating local Knowledge Graph
+2019-06-11 22:06:53,037 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 22:06:53,045 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 22:06:53,057 - DEBUG - Local Knowledge Graph updated
+2019-06-11 22:06:53,152 - DEBUG - Updating local Knowledge Graph
+2019-06-11 22:06:53,152 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 22:06:53,167 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 22:06:53,180 - DEBUG - Local Knowledge Graph updated
+2019-06-11 22:06:53,275 - DEBUG - Updating local Knowledge Graph
+2019-06-11 22:06:53,275 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 22:06:53,286 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 22:06:53,296 - DEBUG - Local Knowledge Graph updated
+2019-06-11 22:06:53,384 - DEBUG - Updating local Knowledge Graph
+2019-06-11 22:06:53,384 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 22:06:53,392 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 22:06:53,403 - DEBUG - Local Knowledge Graph updated
+2019-06-11 22:06:53,503 - DEBUG - Updating local Knowledge Graph
+2019-06-11 22:06:53,503 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 22:06:53,521 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 22:06:53,535 - DEBUG - Local Knowledge Graph updated
+2019-06-11 22:06:53,648 - DEBUG - Updating local Knowledge Graph
+2019-06-11 22:06:53,648 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 22:06:53,659 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 22:06:53,670 - DEBUG - Local Knowledge Graph updated
+2019-06-11 22:06:53,748 - DEBUG - Updating local Knowledge Graph
+2019-06-11 22:06:53,748 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 22:06:53,757 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 22:06:53,767 - DEBUG - Local Knowledge Graph updated
+2019-06-11 22:06:53,849 - DEBUG - Updating local Knowledge Graph
+2019-06-11 22:06:53,849 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 22:06:53,858 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 22:06:53,870 - DEBUG - Local Knowledge Graph updated
+2019-06-11 22:06:53,975 - DEBUG - Updating local Knowledge Graph
+2019-06-11 22:06:53,975 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 22:06:53,987 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 22:06:53,998 - DEBUG - Local Knowledge Graph updated
+2019-06-11 22:06:54,081 - DEBUG - Updating local Knowledge Graph
+2019-06-11 22:06:54,081 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 22:06:54,089 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 22:06:54,099 - DEBUG - Local Knowledge Graph updated
+2019-06-11 22:06:54,194 - DEBUG - Updating local Knowledge Graph
+2019-06-11 22:06:54,194 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 22:06:54,202 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 22:06:54,221 - DEBUG - Local Knowledge Graph updated
+2019-06-11 22:07:08,232 - DEBUG - Updating local Knowledge Graph
+2019-06-11 22:07:08,232 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 22:07:08,247 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 22:07:08,261 - DEBUG - Local Knowledge Graph updated
+2019-06-11 22:07:08,356 - DEBUG - Updating local Knowledge Graph
+2019-06-11 22:07:08,356 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 22:07:08,368 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 22:07:08,384 - DEBUG - Local Knowledge Graph updated
+2019-06-11 22:07:08,479 - DEBUG - Updating local Knowledge Graph
+2019-06-11 22:07:08,479 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 22:07:08,487 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 22:07:08,498 - DEBUG - Local Knowledge Graph updated
+2019-06-11 22:07:08,575 - DEBUG - Updating local Knowledge Graph
+2019-06-11 22:07:08,575 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 22:07:08,584 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 22:07:08,594 - DEBUG - Local Knowledge Graph updated
+2019-06-11 22:07:08,699 - DEBUG - Updating local Knowledge Graph
+2019-06-11 22:07:08,699 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 22:07:08,713 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 22:07:08,737 - DEBUG - Local Knowledge Graph updated
+2019-06-11 22:07:08,875 - DEBUG - Updating local Knowledge Graph
+2019-06-11 22:07:08,875 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 22:07:08,888 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 22:07:08,901 - DEBUG - Local Knowledge Graph updated
+2019-06-11 22:07:09,046 - DEBUG - Updating local Knowledge Graph
+2019-06-11 22:07:09,046 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 22:07:09,068 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 22:07:09,087 - DEBUG - Local Knowledge Graph updated
+2019-06-11 22:07:09,193 - DEBUG - Updating local Knowledge Graph
+2019-06-11 22:07:09,193 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 22:07:09,214 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 22:07:09,243 - DEBUG - Local Knowledge Graph updated
+2019-06-11 22:07:09,502 - DEBUG - Updating local Knowledge Graph
+2019-06-11 22:07:09,502 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 22:07:09,530 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 22:07:09,544 - DEBUG - Local Knowledge Graph updated
+2019-06-11 22:07:09,637 - DEBUG - Updating local Knowledge Graph
+2019-06-11 22:07:09,637 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 22:07:09,645 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 22:07:09,661 - DEBUG - Local Knowledge Graph updated
+2019-06-11 22:07:09,742 - DEBUG - Updating local Knowledge Graph
+2019-06-11 22:07:09,742 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 22:07:09,750 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 22:07:09,762 - DEBUG - Local Knowledge Graph updated
+2019-06-11 22:07:09,880 - DEBUG - Updating local Knowledge Graph
+2019-06-11 22:07:09,880 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 22:07:09,908 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 22:07:09,933 - DEBUG - Local Knowledge Graph updated
+2019-06-11 22:07:10,094 - DEBUG - Updating local Knowledge Graph
+2019-06-11 22:07:10,094 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 22:07:10,110 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 22:07:10,135 - DEBUG - Local Knowledge Graph updated
+2019-06-11 22:12:05,257 - DEBUG - Loading datastore
+2019-06-11 22:12:05,257 - DEBUG - Creating datastore
+2019-06-11 22:12:05,269 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 22:12:05,270 - DEBUG - No trained model for Library Metadata Interlinking
+2019-06-11 22:12:05,337 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 22:12:05,348 - DEBUG - Local Knowledge Graph updated
+2019-06-11 22:12:11,055 - DEBUG - Updating local Knowledge Graph
+2019-06-11 22:12:11,055 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 22:12:11,069 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 22:12:11,083 - DEBUG - Local Knowledge Graph updated
+2019-06-11 22:12:11,239 - DEBUG - Updating local Knowledge Graph
+2019-06-11 22:12:11,239 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 22:12:11,248 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 22:12:11,258 - DEBUG - Local Knowledge Graph updated
+2019-06-11 22:12:11,346 - DEBUG - Updating local Knowledge Graph
+2019-06-11 22:12:11,346 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 22:12:11,355 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 22:12:11,365 - DEBUG - Local Knowledge Graph updated
+2019-06-11 22:12:11,453 - DEBUG - Updating local Knowledge Graph
+2019-06-11 22:12:11,453 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 22:12:11,466 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 22:12:11,476 - DEBUG - Local Knowledge Graph updated
+2019-06-11 22:12:11,564 - DEBUG - Updating local Knowledge Graph
+2019-06-11 22:12:11,564 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 22:12:11,571 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 22:12:11,582 - DEBUG - Local Knowledge Graph updated
+2019-06-11 22:12:11,684 - DEBUG - Updating local Knowledge Graph
+2019-06-11 22:12:11,685 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 22:12:11,698 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 22:12:11,710 - DEBUG - Local Knowledge Graph updated
+2019-06-11 22:12:11,887 - DEBUG - Updating local Knowledge Graph
+2019-06-11 22:12:11,887 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 22:12:11,898 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 22:12:11,909 - DEBUG - Local Knowledge Graph updated
+2019-06-11 22:12:12,005 - DEBUG - Updating local Knowledge Graph
+2019-06-11 22:12:12,005 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 22:12:12,014 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 22:12:12,033 - DEBUG - Local Knowledge Graph updated
+2019-06-11 22:12:12,124 - DEBUG - Updating local Knowledge Graph
+2019-06-11 22:12:12,124 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 22:12:12,136 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 22:12:12,157 - DEBUG - Local Knowledge Graph updated
+2019-06-11 22:12:12,261 - DEBUG - Updating local Knowledge Graph
+2019-06-11 22:12:12,261 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 22:12:12,269 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 22:12:12,279 - DEBUG - Local Knowledge Graph updated
+2019-06-11 22:12:12,367 - DEBUG - Updating local Knowledge Graph
+2019-06-11 22:12:12,368 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 22:12:12,375 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 22:12:12,386 - DEBUG - Local Knowledge Graph updated
+2019-06-11 22:12:12,468 - DEBUG - Updating local Knowledge Graph
+2019-06-11 22:12:12,468 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 22:12:12,478 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 22:12:12,492 - DEBUG - Local Knowledge Graph updated
+2019-06-11 22:12:12,579 - DEBUG - Updating local Knowledge Graph
+2019-06-11 22:12:12,579 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-06-11 22:12:12,588 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-06-11 22:12:12,598 - DEBUG - Local Knowledge Graph updated
+2019-07-17 15:56:46,575 - DEBUG - Loading datastore
+2019-07-17 15:56:46,575 - DEBUG - Creating datastore
+2019-07-17 15:56:46,591 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-07-17 15:56:46,592 - DEBUG - No trained model for Library Metadata Interlinking
+2019-07-17 15:56:46,631 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-07-17 15:56:46,645 - DEBUG - Local Knowledge Graph updated
+2019-07-17 15:56:52,973 - DEBUG - Updating local Knowledge Graph
+2019-07-17 15:56:52,973 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-07-17 15:56:52,987 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-07-17 15:56:53,004 - DEBUG - Local Knowledge Graph updated
+2019-07-17 15:56:53,134 - DEBUG - Updating local Knowledge Graph
+2019-07-17 15:56:53,134 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-07-17 15:56:53,153 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-07-17 15:56:53,169 - DEBUG - Local Knowledge Graph updated
+2019-07-17 15:56:53,269 - DEBUG - Updating local Knowledge Graph
+2019-07-17 15:56:53,269 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-07-17 15:56:53,281 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-07-17 15:56:53,291 - DEBUG - Local Knowledge Graph updated
+2019-07-17 15:56:53,411 - DEBUG - Updating local Knowledge Graph
+2019-07-17 15:56:53,412 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-07-17 15:56:53,422 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-07-17 15:56:53,439 - DEBUG - Local Knowledge Graph updated
+2019-07-17 15:56:53,556 - DEBUG - Updating local Knowledge Graph
+2019-07-17 15:56:53,556 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-07-17 15:56:53,570 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-07-17 15:56:53,586 - DEBUG - Local Knowledge Graph updated
+2019-07-17 15:56:53,697 - DEBUG - Updating local Knowledge Graph
+2019-07-17 15:56:53,697 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-07-17 15:56:53,708 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-07-17 15:56:53,726 - DEBUG - Local Knowledge Graph updated
+2019-07-17 15:56:53,839 - DEBUG - Updating local Knowledge Graph
+2019-07-17 15:56:53,839 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-07-17 15:56:53,853 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-07-17 15:56:53,871 - DEBUG - Local Knowledge Graph updated
+2019-07-17 15:56:54,016 - DEBUG - Updating local Knowledge Graph
+2019-07-17 15:56:54,016 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-07-17 15:56:54,028 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-07-17 15:56:54,041 - DEBUG - Local Knowledge Graph updated
+2019-07-17 15:56:54,150 - DEBUG - Updating local Knowledge Graph
+2019-07-17 15:56:54,150 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-07-17 15:56:54,164 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-07-17 15:56:54,180 - DEBUG - Local Knowledge Graph updated
+2019-07-17 15:56:54,286 - DEBUG - Updating local Knowledge Graph
+2019-07-17 15:56:54,286 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-07-17 15:56:54,297 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-07-17 15:56:54,311 - DEBUG - Local Knowledge Graph updated
+2019-07-17 15:56:54,407 - DEBUG - Updating local Knowledge Graph
+2019-07-17 15:56:54,407 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-07-17 15:56:54,419 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-07-17 15:56:54,433 - DEBUG - Local Knowledge Graph updated
+2019-07-17 15:56:54,553 - DEBUG - Updating local Knowledge Graph
+2019-07-17 15:56:54,553 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-07-17 15:56:54,570 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-07-17 15:56:54,599 - DEBUG - Local Knowledge Graph updated
+2019-07-17 15:56:54,730 - DEBUG - Updating local Knowledge Graph
+2019-07-17 15:56:54,730 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-07-17 15:56:54,754 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-07-17 15:56:54,778 - DEBUG - Local Knowledge Graph updated
+2019-07-17 15:56:54,892 - DEBUG - Updating local Knowledge Graph
+2019-07-17 15:56:54,892 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-07-17 15:56:54,901 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-07-17 15:56:54,916 - DEBUG - Local Knowledge Graph updated
+2019-07-17 15:56:55,016 - DEBUG - Updating local Knowledge Graph
+2019-07-17 15:56:55,016 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-07-17 15:56:55,028 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-07-17 15:56:55,042 - DEBUG - Local Knowledge Graph updated
+2019-07-17 15:56:55,142 - DEBUG - Updating local Knowledge Graph
+2019-07-17 15:56:55,143 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-07-17 15:56:55,157 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-07-17 15:56:55,171 - DEBUG - Local Knowledge Graph updated
+2019-07-17 15:56:55,296 - DEBUG - Updating local Knowledge Graph
+2019-07-17 15:56:55,296 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-07-17 15:56:55,312 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-07-17 15:56:55,330 - DEBUG - Local Knowledge Graph updated
+2019-12-15 21:51:15,936 - DEBUG - Loading datastore
+2019-12-15 21:51:15,936 - DEBUG - Creating datastore
+2019-12-15 21:51:15,958 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-12-15 21:51:15,958 - DEBUG - No trained model for Library Metadata Interlinking
+2019-12-15 21:51:15,986 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-12-15 21:51:15,997 - DEBUG - Local Knowledge Graph updated
+2019-12-15 21:51:16,004 - DEBUG - Updating local Knowledge Graph
+2019-12-15 21:51:16,004 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-12-15 21:51:16,015 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-12-15 21:51:16,025 - DEBUG - Local Knowledge Graph updated
+2019-12-15 21:51:16,030 - DEBUG - Updating local Knowledge Graph
+2019-12-15 21:51:16,031 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-12-15 21:51:16,038 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-12-15 21:51:16,048 - DEBUG - Local Knowledge Graph updated
+2019-12-15 21:51:16,052 - DEBUG - Updating local Knowledge Graph
+2019-12-15 21:51:16,052 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-12-15 21:51:16,060 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-12-15 21:51:16,070 - DEBUG - Local Knowledge Graph updated
+2019-12-15 21:51:16,074 - DEBUG - Updating local Knowledge Graph
+2019-12-15 21:51:16,074 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-12-15 21:51:16,081 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-12-15 21:51:16,091 - DEBUG - Local Knowledge Graph updated
+2019-12-15 21:51:16,095 - DEBUG - Updating local Knowledge Graph
+2019-12-15 21:51:16,095 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-12-15 21:51:16,102 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-12-15 21:51:16,112 - DEBUG - Local Knowledge Graph updated
+2019-12-15 21:51:16,115 - DEBUG - Updating local Knowledge Graph
+2019-12-15 21:51:16,115 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-12-15 21:51:16,123 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-12-15 21:51:16,133 - DEBUG - Local Knowledge Graph updated
+2019-12-15 21:51:16,137 - DEBUG - Updating local Knowledge Graph
+2019-12-15 21:51:16,137 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-12-15 21:51:16,144 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-12-15 21:51:16,154 - DEBUG - Local Knowledge Graph updated
+2019-12-15 21:51:16,158 - DEBUG - Updating local Knowledge Graph
+2019-12-15 21:51:16,159 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-12-15 21:51:16,167 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-12-15 21:51:16,176 - DEBUG - Local Knowledge Graph updated
+2019-12-15 21:51:16,180 - DEBUG - Updating local Knowledge Graph
+2019-12-15 21:51:16,180 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-12-15 21:51:16,188 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-12-15 21:51:16,198 - DEBUG - Local Knowledge Graph updated
+2019-12-15 21:51:16,202 - DEBUG - Updating local Knowledge Graph
+2019-12-15 21:51:16,202 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-12-15 21:51:16,210 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-12-15 21:51:16,219 - DEBUG - Local Knowledge Graph updated
+2019-12-15 21:51:16,224 - DEBUG - Updating local Knowledge Graph
+2019-12-15 21:51:16,224 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-12-15 21:51:16,233 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-12-15 21:51:16,242 - DEBUG - Local Knowledge Graph updated
+2019-12-15 21:51:16,246 - DEBUG - Updating local Knowledge Graph
+2019-12-15 21:51:16,246 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-12-15 21:51:16,253 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-12-15 21:51:16,263 - DEBUG - Local Knowledge Graph updated
+2019-12-15 21:51:16,267 - DEBUG - Updating local Knowledge Graph
+2019-12-15 21:51:16,267 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-12-15 21:51:16,275 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-12-15 21:51:16,284 - DEBUG - Local Knowledge Graph updated
+2019-12-15 21:51:16,288 - DEBUG - Updating local Knowledge Graph
+2019-12-15 21:51:16,289 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-12-15 21:51:16,297 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-12-15 21:51:16,306 - DEBUG - Local Knowledge Graph updated
+2019-12-15 21:51:16,310 - DEBUG - Updating local Knowledge Graph
+2019-12-15 21:51:16,310 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-12-15 21:51:16,317 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-12-15 21:51:16,327 - DEBUG - Local Knowledge Graph updated
+2019-12-15 21:51:16,331 - DEBUG - Updating local Knowledge Graph
+2019-12-15 21:51:16,331 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-12-15 21:51:16,338 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-12-15 21:51:16,348 - DEBUG - Local Knowledge Graph updated
+2019-12-15 21:51:16,352 - DEBUG - Updating local Knowledge Graph
+2019-12-15 21:51:16,352 - DEBUG - Checking datastore for Library Metadata Interlinking trained model
+2019-12-15 21:51:16,360 - DEBUG - Creating triples for trained model in local knowledge graph
+2019-12-15 21:51:16,369 - DEBUG - Local Knowledge Graph updated

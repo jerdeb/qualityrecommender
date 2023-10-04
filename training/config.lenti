@@ -1,0 +1,2 @@
+task_name,task_description,training_data_name,datastore_folder
+Library Metadata Interlinking, Quality measures for interlinking in the digital library domain,library-data.csv,test

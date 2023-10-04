@@ -1,0 +1,6 @@
+pandas==0.23.4
+numpy==1.15.1
+scipy==1.1.0
+CherryPy==18.1.0
+rdflib==4.2.2
+oslo.concurrency==3.29.1

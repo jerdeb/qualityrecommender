@@ -1,0 +1,155 @@
+@prefix lenti: <http://example.org/lenti#> .
+@prefix rdf:    		<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs:    		<http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix vann: <http://purl.org/vocab/vann/> .
+@prefix owl:	 		<http://www.w3.org/2002/07/owl#> .
+@prefix xsd:     		<http://www.w3.org/2001/XMLSchema#> .
+@prefix dct:     		<http://purl.org/dc/terms/>.
+@prefix foaf:    		<http://xmlns.com/foaf/0.1/>.
+@prefix daq:   <http://purl.org/eis/vocab/daq#> .
+
+@prefix prov: <http://www.w3.org/ns/prov#> .
+
+
+lenti:
+  a owl:Ontology ;
+      dct:title "Lenti Quality Measure Model"@en ;
+      dc:description "..."@en ;
+      dct:creator [
+          foaf:name "Jeremy Debattista";
+          foaf:homepage <http://www.jeremydebattista.info> ;
+          foaf:mbox <mailto:debattis@cs.uni-bonn.de>
+        ] ;
+      dct:modified "2019-06-06"^^xsd:date ;
+      dct:language "en"^^xsd:language ;
+      vann:preferredNamespaceUri "http://example.org/lenti#";
+      vann:preferredNamespacePrefix "lenti";
+      foaf:homepage <http://example.org/lenti> .
+
+
+lenti:Task
+  a	rdfs:Class, owl:Class ;
+  rdfs:label "Task"@en .
+
+lenti:TrainedTask
+  a	rdfs:Class, owl:Class ;
+  rdfs:subClassOf	lenti:Task ,
+		[
+      rdf:type owl:Restriction ;
+			owl:onProperty lenti:title ;
+			owl:cardinality "1"^^xsd:nonNegativeInteger
+		],
+    [
+      rdf:type owl:Restriction ;
+      owl:onProperty lenti:profilesTrainedOn ;
+      owl:cardinality "1"^^xsd:nonNegativeInteger
+    ],
+    [
+      rdf:type owl:Restriction ;
+      owl:onProperty lenti:hasMeasureCollection ;
+      owl:cardinality "1"^^xsd:nonNegativeInteger
+    ] ;
+  rdfs:label "Trained Task"@en ;
+  rdfs:comment "Defines a trained task in Lenti."@en .
+
+lenti:MeasuresCollection
+  a	rdfs:Class, owl:Class ;
+  rdfs:subClassOf	rdf:List ,
+	[
+    rdf:type owl:Restriction ;
+    owl:onProperty rdf:first ;
+		owl:allValuesFrom lenti:Measure
+	] ;
+  rdfs:label "Measures Collection"@en ;
+  rdfs:comment "Extending rdf:List, this concept defines all measures for the trained task."@en .
+
+lenti:Measure
+  a	rdfs:Class, owl:Class ;
+  rdfs:subClassOf
+  	[
+      rdf:type owl:Restriction ;
+      owl:onProperty lenti:label ;
+      owl:cardinality "1"^^xsd:nonNegativeInteger
+  	],
+    [
+      rdf:type owl:Restriction ;
+      owl:onProperty lenti:semanticDescription ;
+      owl:cardinality "1"^^xsd:nonNegativeInteger
+  	],
+    [
+      rdf:type owl:Restriction ;
+      owl:onProperty lenti:mean ;
+      owl:cardinality "1"^^xsd:nonNegativeInteger
+  	],
+    [
+      rdf:type owl:Restriction ;
+      owl:onProperty lenti:median ;
+      owl:cardinality "1"^^xsd:nonNegativeInteger
+    ],
+    [
+      rdf:type owl:Restriction ;
+      owl:onProperty lenti:medianEpsilon ;
+      owl:cardinality "1"^^xsd:nonNegativeInteger
+    ] ;
+  rdfs:label "Measure"@en ;
+  rdfs:comment "Defines a quality measure for the trained task."@en .
+
+
+lenti:title
+  a	rdf:Property, owl:DatatypeProperty ;
+  rdfs:subPropertyOf dct:title ;
+  rdfs:label "Title"@en ;
+  rdfs:domain	lenti:TrainedTask ;
+	rdfs:range	xsd:string  .
+
+lenti:descripton
+  a	rdf:Property, owl:DatatypeProperty ;
+  rdfs:subPropertyOf dc:description ;
+  rdfs:label "Description"@en ;
+  rdfs:domain	lenti:TrainedTask ;
+	rdfs:range	xsd:string  .
+
+lenti:profilesTrainedOn
+  a	rdf:Property, owl:DatatypeProperty ;
+  rdfs:label "Number of profiles trained on"@en ;
+  rdfs:domain	lenti:TrainedTask ;
+	rdfs:range	xsd:integer  .
+
+lenti:hasMeasureCollection
+  a	rdf:Property, owl:ObjectProperty ;
+  rdfs:label "Has Measure Collection"@en ;
+  rdfs:domain	lenti:TrainedTask ;
+	rdfs:range	lenti:MeasuresCollection  .
+
+lenti:label
+  a	rdf:Property, owl:DatatypeProperty ;
+  rdfs:label "Label"@en ;
+  rdfs:domain	lenti:Measure ;
+	rdfs:range	xsd:string  .
+
+lenti:semanticDescription
+  a	rdf:Property, owl:ObjectProperty ;
+  rdfs:label "Semantic Description"@en ;
+  rdfs:domain	lenti:Measure ;
+	rdfs:range	[ a owl:Class ;
+                  owl:unionOf  ( daq:Category daq:Dimension daq:Metric )
+              ] .
+
+lenti:mean
+a	rdf:Property, owl:DatatypeProperty ;
+  rdfs:label "Current Mean Value"@en ;
+  rdfs:domain	lenti:Measure ;
+  rdfs:range	xsd:double  .
+
+lenti:median
+  a	rdf:Property, owl:DatatypeProperty ;
+  rdfs:label "Current Median Value"@en ;
+  rdfs:domain	lenti:Measure ;
+  rdfs:range	xsd:double  .
+
+lenti:medianEpsilon
+  a	rdf:Property, owl:DatatypeProperty ;
+  rdfs:label "Current Median Epsilon"@en ;
+  rdfs:domain	lenti:Measure ;
+  rdfs:range	xsd:double  .
